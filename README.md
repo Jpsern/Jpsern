@@ -4,7 +4,6 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/tommy_aka_jps/posts.svg)](http://qiita.com/tommy_aka_jps)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/tommy_aka_jps/contributions.svg)](http://qiita.com/tommy_aka_jps)
-<!--[![My Qiita followers](https://qiita-badge.apiapi.app/s/tommy_aka_jps/followers.svg)](http://qiita.com/tommy_aka_jps)-->
 ![](https://komarev.com/ghpvc/?username=Jpsern&color=green)
 
 <!--
