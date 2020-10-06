@@ -3,7 +3,6 @@
 [![](https://raw.githubusercontent.com/Jpsern/Jpsern/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/tommy_aka_jps/posts.svg)](http://qiita.com/tommy_aka_jps)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tommy_aka_jps/contributions.svg)](http://qiita.com/tommy_aka_jps)
 ![](https://komarev.com/ghpvc/?username=Jpsern&color=green)
 ![GitHub-Profile-Summary-Cards](https://github.com/Jpsern/Jpsern/workflows/GitHub-Profile-Summary-Cards/badge.svg)
 
