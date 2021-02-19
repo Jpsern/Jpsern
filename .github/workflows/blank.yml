@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo Hello, ${secrets.PROFILE_CARD_TOKEN}
+        run: echo Hello, ${{ secrets.PROFILE_CARD_TOKEN }}
