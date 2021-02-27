@@ -1,5 +1,5 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/tommy_aka_jps/posts.svg)](http://qiita.com/tommy_aka_jps)
-![](https://komarev.com/ghpvc/?username=Jpsern&color=)
+![](https://komarev.com/ghpvc/?username=Jpsern&color=green)
 ![GitHub-Profile-Summary-Cards](https://github.com/Jpsern/Jpsern/workflows/GitHub-Profile-Summary-Cards/badge.svg)
 
 
