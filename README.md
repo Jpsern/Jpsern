@@ -4,6 +4,7 @@
 
 
 [![](https://raw.githubusercontent.com/Jpsern/Jpsern/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Jpsern/Jpsern/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!-- 20210228 言語はとりあえず非表示でいいや -->
 <!--
