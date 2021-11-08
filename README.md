@@ -1,10 +1,15 @@
+# Hi there I'm Jpsern 👋
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/tommy_aka_jps/posts.svg)](http://qiita.com/tommy_aka_jps)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/tommy_aka_jps/contributions.svg)](http://qiita.com/tommy_aka_jps)
-![GitHub-Profile-Summary-Cards](https://github.com/Jpsern/Jpsern/workflows/GitHub-Profile-Summary-Cards/badge.svg)
+[![Metrics](https://github.com/Jpsern/Jpsern/actions/workflows/metrics.yml/badge.svg)](https://github.com/Jpsern/Jpsern/actions/workflows/metrics.yml)
 
+## About me
+![Metrics](https://github.com/Jpsern/Jpsern/blob/feat/useMetrics/github-metrics.svg)
 
+<!--Metricsを使うようにしたのでこっちは一旦隠す
 [![](https://raw.githubusercontent.com/Jpsern/Jpsern/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Jpsern/Jpsern/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
 
 <!-- 20210228 言語はとりあえず非表示でいいや -->
 <!--
