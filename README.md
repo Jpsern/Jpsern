@@ -1,10 +1,10 @@
-# Hi there I'm Jpsern 👋
+# Hi there 👋
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/tommy_aka_jps/posts.svg)](http://qiita.com/tommy_aka_jps)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/tommy_aka_jps/contributions.svg)](http://qiita.com/tommy_aka_jps)
 [![Metrics](https://github.com/Jpsern/Jpsern/actions/workflows/metrics.yml/badge.svg)](https://github.com/Jpsern/Jpsern/actions/workflows/metrics.yml)
 
 ## About me
-![Metrics](https://github.com/Jpsern/Jpsern/blob/feat/useMetrics/github-metrics.svg)
+![Metrics](https://github.com/Jpsern/Jpsern/blob/master/github-metrics.svg)
 
 <!--Metricsを使うようにしたのでこっちは一旦隠す
 [![](https://raw.githubusercontent.com/Jpsern/Jpsern/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
