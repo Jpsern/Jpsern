@@ -1,8 +1,11 @@
 name: Metrics
 
 on:
- schedule:
-   - cron: '* */24 * * *'
+  # schedule:
+  #   - cron: '* */24 * * *'
+  push:
+    branches:
+      - feat/useMetrics
   workflow_dispatch:
 
 jobs:
