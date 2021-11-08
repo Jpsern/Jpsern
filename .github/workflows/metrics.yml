@@ -1,0 +1,17 @@
+name: Metrics
+
+on:
+  # schedule:
+  #   - cron: '* */24 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+      # 以下に必要な各種プラグインを記載していく
