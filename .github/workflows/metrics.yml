@@ -17,6 +17,8 @@ jobs:
           # See all supported options
           # https://github.com/lowlighter/metrics/blob/4eeea4c0cd385c2c0a8d56c6b03b6484f8c61bdd/action.yml
           base: header, activity, community, repositories
+          repositories_forks: yes
+          repositories_skipped: Jpsern/Jpsern, Jpsern/archive-tmh2, Jpsern/archive-tmh3, Jpsern/gh-pages-test
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://jpsern.com
           plugin_isocalendar: yes
