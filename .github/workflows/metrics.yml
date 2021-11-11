@@ -3,6 +3,9 @@ name: Metrics
 on:
   schedule:
     - cron: '* */24 * * *'
+  push:
+    branches:
+      - master
   workflow_dispatch:
 
 jobs:
@@ -21,6 +24,8 @@ jobs:
           repositories_skipped: Jpsern/Jpsern, Jpsern/archive-tmh2, Jpsern/archive-tmh3, Jpsern/gh-pages-test
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://jpsern.com
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_screenshot: yes
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_ignored: "" # List of comma separated languages to ignore
