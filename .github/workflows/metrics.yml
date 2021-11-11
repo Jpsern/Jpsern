@@ -22,6 +22,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://jpsern.com
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_screenshot: yes
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_ignored: "" # List of comma separated languages to ignore
