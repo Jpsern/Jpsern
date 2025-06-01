@@ -1,5 +1,7 @@
 # Hi there 👋
+<!--バッジ画像が死ぬのでいったん無効化
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/tommy_aka_jps/posts.svg)](http://qiita.com/tommy_aka_jps)
+-->
 [![Metrics](https://github.com/Jpsern/Jpsern/actions/workflows/metrics.yml/badge.svg)](https://github.com/Jpsern/Jpsern/actions/workflows/metrics.yml)
 
 ## About me
