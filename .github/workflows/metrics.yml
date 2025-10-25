@@ -23,13 +23,12 @@ jobs:
           # repositories_forks: yes
           repositories_skipped: Jpsern/Jpsern, Jpsern/archive-tmh2, Jpsern/archive-tmh3, Jpsern/gh-pages-test, Jpsern/tkz, Jpsern/test-cypress
           plugin_pagespeed: yes
-          plugin_pagespeed_url: https://jpsern.com
+          plugin_pagespeed_url: https://jpsern.com/
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_detailed: yes
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_ignored: "" # List of comma separated languages to ignore
           plugin_languages_skipped: "" # List of comma separated repositories to skip:  
-          plugin_habits: yes
           plugin_introduction: yes
           plugin_followup: yes
