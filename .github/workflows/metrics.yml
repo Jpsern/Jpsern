@@ -23,7 +23,7 @@ jobs:
           # repositories_forks: yes
           repositories_skipped: Jpsern/Jpsern, Jpsern/archive-tmh2, Jpsern/archive-tmh3, Jpsern/gh-pages-test, Jpsern/tkz, Jpsern/test-cypress
           plugin_pagespeed: yes
-          plugin_pagespeed_url: https://jpsern.com
+          plugin_pagespeed_url: https://jpsern.com/
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_detailed: yes
           plugin_isocalendar: yes
